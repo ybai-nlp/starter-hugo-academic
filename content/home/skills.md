@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -17,9 +19,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: python
   icon_pack: fab
-  name: R
+  name: Python
 - description: 100%
   icon: chart-line
   icon_pack: fas
