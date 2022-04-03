@@ -46,7 +46,7 @@ design:
 #  name: "Surfing"
 #  description: "90%"
 ---
-* **\[March 31, 2022\]** A paper has benn accepted by SIGIR 2022! See you at the conference! 
+* **\[March 31, 2022\]** A paper has been accepted by SIGIR 2022! See you at the conference! 
 * **\[July 9, 2021\]** My volunteer application for ACL 2021 has been accepted. See you at the virtual conference!
 * **\[June 28, 2021\]** I join Alibaba DAMO academy as a research intern! 
 * **\[May 6, 2021\]** A paper has been accepted by ACL-IJCNLP 2021!
